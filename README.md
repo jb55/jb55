@@ -1,13 +1,5 @@
-Hi There
+I don't use github much anymore, I can be found elsewhere:
 
-I am not using Github much anymore
-
-If you want to contribute to my projects, go to
-
-[http://git.jb55.com](http://git.jb55.com)
-
-and send me paches via [git-send-email](https://git-send-email.io)
-
-All other links can be found on my [website](https://jb55.com)
-
-Have a nice day!
+website: [https://jb55.com](https://jb55.com)
+code: [http://git.jb55.com](http://git.jb55.com)
+fedi: [https://bitcoinhackers.org/@jb55](https://bitcoinhackers.org/@jb55)
